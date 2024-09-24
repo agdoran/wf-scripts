@@ -11,7 +11,7 @@ This is a personal script in no way associated with Oxford Nanopore or the wf-tr
 may not be appropriate for all versions of the workflow. 
 
 While every effort is made to ensure this script is bug free, this should not be assumed to be true and 
-users should confirm or validate the results of this script themselves before. 
+users should confirm or validate the results of this script themselves before using the outputs. 
 
 Usage:
 
