@@ -1,9 +1,10 @@
 # wf-scripts
-A list of scripts for handling various outputs from wf-workflows
+# A list of scripts for handling various outputs from wf-workflows
+
+
 
 ---------------------------------------------
-
-transcript_unify_annotation.pl
+# transcript_unify_annotation.pl
 
 This is a short script to merge information contained the output directories from wf-transcriptomes:
 https://github.com/epi2me-labs/wf-transcriptomes
