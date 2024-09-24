@@ -15,7 +15,7 @@ users should confirm or validate the results of this script themselves before.
 
 Usage:
 
-	perl $0 --tsv <str_merged.tracking tsv file> --gtf <str_merged.annotated.gtf> --output <new output TSV file> [--help]
+	perl transcript_unify_annotation.pl --tsv <str_merged.tracking tsv file> --gtf <str_merged.annotated.gtf> --output <new output TSV file> [--help]
 
 	where:
 
