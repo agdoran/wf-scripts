@@ -81,7 +81,7 @@ if(not defined $output){
 
 # print some general indication of status 
 print "All parameters confirmed. Starting merging of information from $tsv with coordinate information for the transcript features in $gtf\n";
-print "Reading the TSV file\n"
+print "Reading the TSV file\n";
 
 
 
@@ -153,8 +153,8 @@ close(TSV);
 
 
 # print some general indication of status 
-print "Finished reading the TSV file. Now reading the GTF file\n"
-print "transcripts found in both files will be printed to the output file as they are found\n"
+print "Finished reading the TSV file. Now reading the GTF file\n";
+print "transcripts found in both files will be printed to the output file as they are found\n";
 print "We will also print matching transcripts to the output file\n";
 
 
